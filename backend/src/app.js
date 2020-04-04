@@ -42,4 +42,4 @@ app.use(errors())
  * Query Builder: table('users').select('*').where()
  */
 
-app.listen(3333)
+module.exports = app;
