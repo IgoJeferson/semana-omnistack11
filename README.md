@@ -29,7 +29,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src=".github/heroes.png" width="50%">
+  <img alt="Frontend" src=".github/heroes.png" width="30%">
 </p>
 
 # Semana OmniStack 11.0
@@ -39,9 +39,16 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
+  * [knex.js](http://knexjs.org/) - A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
+  * [sqlite3](https://www.sqlite.org/version3.html) - SQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine.
+  * [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
+  * [celebrate](https://github.com/arb/celebrate) - A joi validation middleware for Express.
+  * [jest](https://jestjs.io/) - Jest is a delightful JavaScript Testing Framework with a focus on simplicity.
+  * [supertest](https://github.com/visionmedia/supertest) - Super-agent driven library for testing node.js HTTP servers using a fluent API.
 - [React](https://reactjs.org)
+  * [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [React Native](https://facebook.github.io/react-native/)
-- [Expo](https://expo.io/)
+  * [Expo](https://expo.io/)
 
 ## 💻 Projeto
 
