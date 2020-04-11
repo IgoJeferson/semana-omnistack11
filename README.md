@@ -29,7 +29,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src=".github/heroes.png" width="100%">
+  <img alt="Frontend" src=".github/heroes.png" width="50%">
 </p>
 
 # Semana OmniStack 11.0
@@ -51,16 +51,44 @@ O Be The Hero é o projeto da semana OmniStack 11.0 da Rocket Seat, com o objeti
 Para executar esse repositório baixe-o para sua maquina ou de um Git Clone
 
 ## Backend
-abra a pasta /backend
-$ npm install esse comando ira instalar todos os módulos necessários ao Node.JS
-$ npm start Ira iniciar o servidor backend na localhost:3333\
+Abra a pasta /backend
+
+Esse comando ira instalar todos os módulos necessários ao Node.JS
+```
+$ npm install
+```
+
+Ira iniciar o servidor backend na localhost:3333\
+
+```
+$ npm start
+```
 
 ## Frontend | Web
-abra a pasta /frontend
-$ npm install esse comando ira instalar todos os módulos necessários ao React
-$ npm start Ira iniciar o servidor Frontend na localhost:3000\
+Abra a pasta /frontend
+
+Execute esse comando para instalar todos os módulos necessários ao *React*
+
+```
+$ npm install
+```
+
+Ira iniciar o servidor Frontend na localhost:3000\
+ 
+```
+$ npm start 
+```
 
 ## Mobile
 abra a pasta /mobile
-$ npm install esse comando ira instalar todos os módulos necessários ao React Native
-$ npm start Ira iniciar o servidor de desenvolvimento do Expo
+Esse comando ira instalar todos os módulos necessários ao React Native:
+
+```
+$ npm install 
+```
+
+Ira iniciar o servidor de desenvolvimento do Expo:
+
+```
+$ npm start
+```
